@@ -1,6 +1,5 @@
 from functools import cache
 
-
 input = open('./input.txt').read().strip().splitlines()
 
 paths = {}
